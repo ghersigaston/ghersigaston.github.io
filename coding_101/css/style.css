@@ -1,0 +1,42 @@
+body {
+  background-color: #afeeee;
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+
+h1 {
+  color: #80FFF2;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 1px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2{
+  font-style: italic;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  letter-spacing: 3px;
+  color: #00a695;
+
+}
+
+p{
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+li{
+  width: 220px;
+  color: #00a695;
+  display: inline-block;
+
+}
+ul {
+  padding-bottom: 10px 10px 10px 10px;
+  margin-top: 20px;
+}
+
+.about:hover{
+  background-color: blue;
+}
